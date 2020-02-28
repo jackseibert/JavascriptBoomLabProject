@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- Jack Seibert - JavaScript Bench Project -->
 
 <head>
     <meta charset="UTF-8">
